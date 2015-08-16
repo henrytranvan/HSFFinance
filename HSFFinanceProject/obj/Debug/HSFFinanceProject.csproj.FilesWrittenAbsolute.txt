@@ -1,0 +1,13 @@
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/Xamarin.Forms.Core.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/Connectivity.Plugin.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/Connectivity.Plugin.Abstractions.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/Newtonsoft.Json.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/System.Net.Http.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/System.Net.Http.Primitives.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/System.Net.Http.Extensions.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/HSFFinanceProject.dll.mdb
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/bin/Debug/HSFFinanceProject.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/obj/Debug/HSFFinanceProject.dll
+/Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/obj/Debug/HSFFinanceProject.dll.mdb

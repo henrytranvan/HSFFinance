@@ -1,0 +1,59 @@
+﻿<Properties StartupItem="Droid/HSFFinanceProject.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HSFFinanceProject/Categories/MenuPage.cs">
+    <Files>
+      <File FileName="HSFFinanceProject/HomePage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/SectorNewsPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/App.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/MenuPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/MainPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/ViewModels/LoginModalPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/LoginPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Models/ILoginManager.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/packages.config" Line="1" Column="1" />
+      <File FileName="../../Desktop/xamarin-forms-samples/LoginDemo/LoginPattern/App.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/PFDictionaryView.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Menu/MenuPages.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/HomePageDetail.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/ContactUsPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/CoreIndustriesPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/CoreIndustryPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/LatestThingkingPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/LatestThinkingPageDetail.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/MenuPage.cs" Line="42" Column="2" />
+      <File FileName="HSFFinanceProject/Categories/PFDictionaryPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/SectorNewsPage.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/SectorNewsPage (copy).cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/ViewModels/CoreIndustriesViewModel.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/ViewModels/FooterViewModel.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/ViewModels/MenuListData.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/ViewModels/MonkeysViewModel.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/ViewModels/PFDictionaresViewModel.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/CoreIndustriesView.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/LatestThinkingView.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/FooterView.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/InfiniteListView.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/MenuListView.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Helpers/EmptyInterface.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Helpers/Grouping.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Helpers/INetworkConnection.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Categories/HomePageOffline.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/MenuCell.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/HeaderCell.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/FooterCell.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Models/MenuItemModel.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Models/CoreIndustriesModel.cs" Line="1" Column="1" />
+      <File FileName="HSFFinanceProject/Views/DetailsPage.cs" Line="1" Column="1" />
+      <File FileName="iOS/MenuCell.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/MyListRenderer.cs" Line="1" Column="1" />
+      <File FileName="iOS/MenuCellRender.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

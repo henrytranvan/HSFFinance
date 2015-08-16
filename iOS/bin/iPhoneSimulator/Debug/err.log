@@ -1,0 +1,100 @@
+2015-08-16 11:36:54.325 HSFFinanceProjectiOS[945:12112] Creating the server: <LPHTTPServer: 0x7ae6b5b0>
+2015-08-16 11:36:54.326 HSFFinanceProjectiOS[945:12112] Calabash iOS server version: CALABASH VERSION: 0.13.0
+2015-08-16 11:36:54.327 HSFFinanceProjectiOS[945:12112] simroot: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk
+2015-08-16 11:36:54.375 HSFFinanceProjectiOS[945:12112] Started LPHTTP server on port 37265
+2015-08-16 11:36:54.573 HSFFinanceProjectiOS[945:12231] MonoTouch: Socket error while connecting to MonoDevelop on 127.0.0.1:10000: Connection refused
+2015-08-16 11:36:55.278 HSFFinanceProjectiOS[945:12229] Bonjour Service Published: domain(local.) type(_http._tcp.) name(Calabash Server)
+2015-08-16 11:37:01.215 HSFFinanceProjectiOS[945:12112] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2015-08-16 11:37:01.216 HSFFinanceProjectiOS[945:12112] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d93e680 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2015-08-16 11:37:01.216 HSFFinanceProjectiOS[945:12112] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2015-08-16 11:37:01.216 HSFFinanceProjectiOS[945:12112] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d93e680 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2015-08-16 11:37:01.217 HSFFinanceProjectiOS[945:12112] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2015-08-16 11:37:01.217 HSFFinanceProjectiOS[945:12112] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d93e680 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2015-08-16 11:37:01.217 HSFFinanceProjectiOS[945:12112] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2015-08-16 11:37:01.218 HSFFinanceProjectiOS[945:12112] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d93e680 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2015-08-16 11:37:01.218 HSFFinanceProjectiOS[945:12112] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2015-08-16 11:37:01.218 HSFFinanceProjectiOS[945:12112] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d93e680 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2015-08-16 11:37:01.219 HSFFinanceProjectiOS[945:12112] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2015-08-16 11:37:01.219 HSFFinanceProjectiOS[945:12112] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d93e680 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2015-08-16 11:37:25.683 HSFFinanceProjectiOS[945:12112] Unhandled managed exception:
+Cannot cast from source type to destination type. (System.InvalidCastException)
+  at HSFFinance.Views.FooterView.<FooterView>m__0 (System.Object s, Xamarin.Forms.SelectedItemChangedEventArgs e) [0x00012] in /Users/tranh/Projects/HSFFinanceProject/HSFFinanceProject/Views/FooterView.cs:35 
+  at (wrapper delegate-invoke) System.EventHandler`1<Xamarin.Forms.SelectedItemChangedEventArgs>:invoke_void_object_TEventArgs (object,Xamarin.Forms.SelectedItemChangedEventArgs)
+  at Xamarin.Forms.ListView.OnSelectedItemChanged (Xamarin.Forms.BindableObject bindable, System.Object oldValue, System.Object newValue) [0x00000] in <filename unknown>:0 
+  at Xamarin.Forms.BindableObject.SetValueActual (Xamarin.Forms.BindableProperty property, Xamarin.Forms.BindablePropertyContext context, System.Object value, Boolean currentlyApplying, SetValueFlags attributes, Boolean silent) [0x00000] in <filename unknown>:0 
+  at Xamarin.Forms.BindableObject.SetValueCore (Xamarin.Forms.BindableProperty property, System.Object value, SetValueFlags attributes, SetValuePrivateFlags privateAttributes) [0x00000] in <filename unknown>:0 
+  at Xamarin.Forms.BindableObject.SetValueCore (Xamarin.Forms.BindableProperty property, System.Object value, SetValueFlags attributes) [0x00000] in <filename unknown>:0 
+  at Xamarin.Forms.ListView.NotifyRowTapped (Int32 groupIndex, Int32 inGroupIndex) [0x00000] in <filename unknown>:0 
+  at Xamarin.Forms.Platform.iOS.ListViewRenderer+ListViewDataSource.RowSelected (UIKit.UITableView tableView, Foundation.NSIndexPath indexPath) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, IntPtr principal, IntPtr delegate) [0x00005] in /Users/builder/data/lanes/1977/2c66d2fe/source/maccore/src/UIKit/UIApplication.cs:63 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x0001c] in /Users/builder/data/lanes/1977/2c66d2fe/source/maccore/src/UIKit/UIApplication.cs:46 
+  at HSFFinanceProject.iOS.Application.Main (System.String[] args) [0x00008] in /Users/tranh/Projects/HSFFinanceProject/iOS/Main.cs:17 
+2015-08-16 11:37:25.684 HSFFinanceProjectiOS[945:12112] critical: Stacktrace:
+
+2015-08-16 11:37:25.684 HSFFinanceProjectiOS[945:12112] critical: 
+Native stacktrace:
+
+2015-08-16 11:37:25.695 HSFFinanceProjectiOS[945:12112] critical: 	0   HSFFinanceProjectiOS                0x001967c7 mono_handle_native_sigsegv + 311
+2015-08-16 11:37:25.695 HSFFinanceProjectiOS[945:12112] critical: 	1   HSFFinanceProjectiOS                0x0019d651 sigabrt_signal_handler + 129
+2015-08-16 11:37:25.695 HSFFinanceProjectiOS[945:12112] critical: 	2   libsystem_platform.dylib            0x07f9c03b _sigtramp + 43
+2015-08-16 11:37:25.696 HSFFinanceProjectiOS[945:12112] critical: 	3   ???                                 0xffffffff 0x0 + 4294967295
+2015-08-16 11:37:25.696 HSFFinanceProjectiOS[945:12112] critical: 	4   libsystem_sim_c.dylib               0x07d34a5a abort + 156
+2015-08-16 11:37:25.696 HSFFinanceProjectiOS[945:12112] critical: 	5   HSFFinanceProjectiOS                0x00332776 xamarin_unhandled_exception_handler + 342
+2015-08-16 11:37:25.696 HSFFinanceProjectiOS[945:12112] critical: 	6   HSFFinanceProjectiOS                0x0019703b mono_invoke_unhandled_exception_hook + 91
+2015-08-16 11:37:25.696 HSFFinanceProjectiOS[945:12112] critical: 	7   HSFFinanceProjectiOS                0x00195ec8 mono_handle_exception_internal + 6200
+2015-08-16 11:37:25.696 HSFFinanceProjectiOS[945:12112] critical: 	8   HSFFinanceProjectiOS                0x00194689 mono_handle_exception + 41
+2015-08-16 11:37:25.697 HSFFinanceProjectiOS[945:12112] critical: 	9   HSFFinanceProjectiOS                0x0012b528 mono_x86_throw_exception + 136
+2015-08-16 11:37:25.697 HSFFinanceProjectiOS[945:12112] critical: 	10  HSFFinanceProjectiOS                0x0012b5d0 mono_arch_get_throw_exception + 0
+2015-08-16 11:37:25.697 HSFFinanceProjectiOS[945:12112] critical: 	11  ???                                 0x14d9c35a 0x0 + 349815642
+2015-08-16 11:37:25.697 HSFFinanceProjectiOS[945:12112] critical: 	12  ???                                 0x1874fcc4 0x0 + 410320068
+2015-08-16 11:37:25.697 HSFFinanceProjectiOS[945:12112] critical: 	13  ???                                 0x18bc7190 0x0 + 415003024
+2015-08-16 11:37:25.697 HSFFinanceProjectiOS[945:12112] critical: 	14  ???                                 0x18728e02 0x0 + 410160642
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	15  ???                                 0x18728438 0x0 + 410158136
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	16  ???                                 0x18801c60 0x0 + 411049056
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	17  ???                                 0x18bc7018 0x0 + 415002648
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	18  ???                                 0x18bc6d8c 0x0 + 415001996
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	19  ???                                 0x186f03b5 0x0 + 409928629
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	20  HSFFinanceProjectiOS                0x001c6105 mono_jit_runtime_invoke + 725
+2015-08-16 11:37:25.698 HSFFinanceProjectiOS[945:12112] critical: 	21  HSFFinanceProjectiOS                0x002659ef mono_runtime_invoke + 127
+2015-08-16 11:37:25.699 HSFFinanceProjectiOS[945:12112] critical: 	22  HSFFinanceProjectiOS                0x0033d0c6 xamarin_trampoline + 5686
+2015-08-16 11:37:25.699 HSFFinanceProjectiOS[945:12112] critical: 	23  UIKit                               0x0227a256 -[UITableView _selectRowAtIndexPath:animated:scrollPosition:notifyDelegate:] + 1559
+2015-08-16 11:37:25.699 HSFFinanceProjectiOS[945:12112] critical: 	24  UIKit                               0x0227a401 -[UITableView _userSelectRowAtPendingSelectionIndexPath:] + 285
+2015-08-16 11:37:25.699 HSFFinanceProjectiOS[945:12112] critical: 	25  UIKit                               0x0227f745 __38-[UITableView touchesEnded:withEvent:]_block_invoke + 43
+2015-08-16 11:37:25.699 HSFFinanceProjectiOS[945:12112] critical: 	26  UIKit                               0x02189812 ___afterCACommitHandler_block_invoke + 15
+2015-08-16 11:37:25.699 HSFFinanceProjectiOS[945:12112] critical: 	27  UIKit                               0x021897bd _applyBlockToCFArrayCopiedToStack + 415
+2015-08-16 11:37:25.700 HSFFinanceProjectiOS[945:12112] critical: 	28  UIKit                               0x021895d2 _afterCACommitHandler + 549
+2015-08-16 11:37:25.700 HSFFinanceProjectiOS[945:12112] critical: 	29  CoreFoundation                      0x074bb86e __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 30
+2015-08-16 11:37:25.700 HSFFinanceProjectiOS[945:12112] critical: 	30  CoreFoundation                      0x074bb7b0 __CFRunLoopDoObservers + 400
+2015-08-16 11:37:25.700 HSFFinanceProjectiOS[945:12112] critical: 	31  CoreFoundation                      0x074b11ea __CFRunLoopRun + 1226
+2015-08-16 11:37:25.700 HSFFinanceProjectiOS[945:12112] critical: 	32  CoreFoundation                      0x074b0a5b CFRunLoopRunSpecific + 443
+2015-08-16 11:37:25.700 HSFFinanceProjectiOS[945:12112] critical: 	33  CoreFoundation                      0x074b088b CFRunLoopRunInMode + 123
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	34  GraphicsServices                    0x088cd2c9 GSEventRunModal + 192
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	35  GraphicsServices                    0x088cd106 GSEventRun + 104
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	36  UIKit                               0x0215f0b6 UIApplicationMain + 1526
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	37  ???                                 0x175af7f0 0x0 + 391837680
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	38  ???                                 0x175af6dc 0x0 + 391837404
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	39  ???                                 0x165f9450 0x0 + 375362640
+2015-08-16 11:37:25.701 HSFFinanceProjectiOS[945:12112] critical: 	40  ???                                 0x165f92e4 0x0 + 375362276
+2015-08-16 11:37:25.702 HSFFinanceProjectiOS[945:12112] critical: 	41  ???                                 0x165f939f 0x0 + 375362463
+2015-08-16 11:37:25.702 HSFFinanceProjectiOS[945:12112] critical: 	42  HSFFinanceProjectiOS                0x001c6105 mono_jit_runtime_invoke + 725
+2015-08-16 11:37:25.702 HSFFinanceProjectiOS[945:12112] critical: 	43  HSFFinanceProjectiOS                0x002659ef mono_runtime_invoke + 127
+2015-08-16 11:37:25.702 HSFFinanceProjectiOS[945:12112] critical: 	44  HSFFinanceProjectiOS                0x0026ab01 mono_runtime_exec_main + 401
+2015-08-16 11:37:25.702 HSFFinanceProjectiOS[945:12112] critical: 	45  HSFFinanceProjectiOS                0x0026a8b1 mono_runtime_run_main + 721
+2015-08-16 11:37:25.702 HSFFinanceProjectiOS[945:12112] critical: 	46  HSFFinanceProjectiOS                0x001230bd mono_jit_exec + 93
+2015-08-16 11:37:25.703 HSFFinanceProjectiOS[945:12112] critical: 	47  HSFFinanceProjectiOS                0x0032e363 xamarin_main + 2531
+2015-08-16 11:37:25.703 HSFFinanceProjectiOS[945:12112] critical: 	48  HSFFinanceProjectiOS                0x000cb8b1 main + 113
+2015-08-16 11:37:25.703 HSFFinanceProjectiOS[945:12112] critical: 	49  libdyld.dylib                       0x07c90ac9 start + 1
+2015-08-16 11:37:25.703 HSFFinanceProjectiOS[945:12112] critical: 
+=================================================================
+Got a SIGABRT while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
